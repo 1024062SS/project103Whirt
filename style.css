@@ -1,0 +1,17 @@
+body{
+    color: rgb(19, 10, 10);
+    background:rgb(170, 127, 255);
+}
+h3{
+    width: 80%;
+    font-size: 23px;
+}
+#camera{
+    border:2px dashed black;
+    width: 351px;
+    height:300px;
+}
+#result_of_objects, #result_of_accuracy{
+
+    color:brown;
+}
